@@ -1,4 +1,4 @@
-# Hello World! 👾
+🚀 About Me
 
 # 🎮 🎸 💻
 ![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJncXljOHBsdGc1b3phcW93YTNweDNtNmFvZndoN3g3cHk2MnNjOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O4ek62kVMV9nO/giphy.gif)
@@ -32,11 +32,3 @@ Blending technical skills with creative passions. Currently learning new technol
 ---
 
 **Musical taste:** Alternative Rock • Metal • Nu Metal • and beyond  
-**🎵 My Playlist:** [Spotify Rock/Metal Mix](https://open.spotify.com/playlist/7zuFASksP0jVdjxNtKngg0?si=ab923ae73acc4050){:target="_blank" rel="noopener noreferrer"}
-
-## 📍 Connect with me
-- **Discord:** killuwap
-- **Email:** [coby.2339@gmail.com](mailto:coby.2339@gmail.com){:target="_blank" rel="noopener noreferrer"}
-- **Instagram:** [@cobymarzo](https://www.instagram.com/cobymarzo/){:target="_blank" rel="noopener noreferrer"}
-- **Facebook:** [llcoby](https://www.facebook.com/llcoby){:target="_blank" rel="noopener noreferrer"}
-- **Spotify Playlist:** [Rock/Metal Mix](https://open.spotify.com/playlist/7zuFASksP0jVdjxNtKngg0?si=ab923ae73acc4050){:target="_blank" rel="noopener noreferrer"}
