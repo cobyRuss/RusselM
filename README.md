@@ -27,15 +27,15 @@ Blending technical skills with creative passions. Currently learning new technol
   </a>
 
   <!-- Discord -->
-  <a href="https://discord.com/kob_E" target="_blank">
+  <a href="**Discord:** kob_E" target="_blank">
     <img 
       alt="discord" 
-      title="Message me on Discord" 
+      title="Discord" 
       src="https://custom-icon-badges.demolab.com/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:coby.2339@gmail.com" target="_blank">
+  <a href=coby.2339@gmail.com" target="_blank">
     <img 
       alt="gmail" 
       title="Send me an email" 
