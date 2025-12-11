@@ -7,7 +7,6 @@
 
 Blending technical skills with creative passions. Currently learning new technologies while keeping my basslines heavy and my gameplay sharp. Always exploring where code, music, and gaming intersect.
 
-**Musical taste:** alternative rock • Metal • Nu Metal • and beyond
 <p align="left">
 
   <!-- Facebook -->
@@ -15,7 +14,7 @@ Blending technical skills with creative passions. Currently learning new technol
     <img 
       alt="facebook" 
       title="Visit my Facebook profile" 
-      src="https://custom-icon-badges.demolab.com/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 
   <!-- Instagram -->
@@ -23,38 +22,33 @@ Blending technical skills with creative passions. Currently learning new technol
     <img 
       alt="instagram" 
       title="Visit my Instagram" 
-      src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
   <!-- Discord -->
-  <a href="**Discord:** kob_E" target="_blank">
+  <a href="https://discord.com/users/killuwap" target="_blank">
     <img 
       alt="discord" 
-      title="Discord" 
-      src="https://custom-icon-badges.demolab.com/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+      title="Connect on Discord" 
+      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
   <!-- Gmail -->
-  <a href=coby.2339@gmail.com" target="_blank">
+  <a href="mailto:coby.2339@gmail.com" target="_blank">
     <img 
       alt="gmail" 
       title="Send me an email" 
-      src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
 </p>
 
 ---
 
-### 🧰 Languages and Tools
+**Musical taste:** Alternative Rock • Metal • Nu Metal • and beyond
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45" />
-</p>
+## 📍 Connect with me
+- **Discord:** killuwap
+- **Email:** coby.2339@gmail.com
+- **Instagram:** @cobymarzo
+- **Facebook:** llcoby
