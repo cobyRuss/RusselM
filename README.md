@@ -1,16 +1,13 @@
 #  Hello World! 👾
 
-# 🎸 Code, Chords & Learning Curves
+# 🎮 🎸 💻
 ![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJncXljOHBsdGc1b3phcW93YTNweDNtNmFvZndoN3g3cHk2MnNjOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O4ek62kVMV9nO/giphy.gif)
-
 
 **IT Student | Bassist | Gamer | Philippines**
 
-Let's be real—I'm still working on my coding skills. Some days it clicks, some days it doesn't, but I keep showing up. Currently focused on building a solid foundation in IT while balancing my creative side (playing bass, mostly rock/metal) and gaming hobbies.
+Blending technical skills with creative passions. Currently learning new technologies while keeping my basslines heavy and my gameplay sharp. Always exploring where code, music, and gaming intersect.
 
-**My approach:** Consistent effort over natural talent. Learning through doing, asking questions, and celebrating progress—no matter how small.
-
-*Just another student trying to get better while enjoying the journey.*
+**Musical taste:** alternative rock • Metal • Nu Metal • and beyond
 <p align="left">
 
   <!-- Facebook -->
