@@ -7,6 +7,31 @@
 
 Blending technical skills with creative passions. Currently learning new technologies while keeping my basslines heavy and my gameplay sharp. Always exploring where code, music, and gaming intersect.
 
+
+# 🛠️ Skills
+
+### 🎨 Front-End Development
+- HTML
+- CSS
+
+### 💻 IT & Tech
+- Basic Troubleshooting  
+- Computer Systems Servicing  
+- System Optimization  
+- Software Installation & Configuration
+
+### 🎸 Music
+- Bass Guitar • Intermediate
+- Electric Guitar • Intermediate
+- Groove & Rhythm Focus  
+- Alternative / Metal / Nu-Metal Styles
+
+### 🎮 Gaming
+- PC & Console Gaming  
+- Strategy • FPS • RPG  
+- Tech & Hardware Knowledge
+
+---
 <p align="left">
   <a href="https://www.facebook.com/llcoby" target="_blank" rel="noopener noreferrer">
     <img height="40" src="https://img.icons8.com/color/96/000000/facebook-new.png" alt="Facebook" />
