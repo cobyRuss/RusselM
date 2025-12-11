@@ -9,23 +9,23 @@ Blending technical skills with creative passions. Currently learning new technol
 
 <p align="left">
   <a href="https://www.facebook.com/llcoby" target="_blank">
-    <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/facebook.svg" alt="Facebook" />
+    <img height="40" src="https://img.icons8.com/color/96/000000/facebook-new.png" alt="Facebook" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/cobymarzo/" target="_blank">
-    <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" alt="Instagram" />
+    <img height="40" src="https://img.icons8.com/color/96/000000/instagram-new--v1.png" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.com/users/killuwap" target="_blank">
-    <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg" alt="Discord" />
+    <img height="40" src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="Discord" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:coby.2339@gmail.com" target="_blank">
-    <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Gmail" />
+    <img height="40" src="https://img.icons8.com/color/96/000000/gmail-new.png" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://open.spotify.com/playlist/7zuFASksP0jVdjxNtKngg0?si=ab923ae73acc4050" target="_blank">
-    <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/spotify.svg" alt="Spotify Playlist" />
+    <img height="40" src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="Spotify" />
   </a>
 </p>
 
@@ -33,10 +33,3 @@ Blending technical skills with creative passions. Currently learning new technol
 
 **Musical taste:** Alternative Rock • Metal • Nu Metal • and beyond  
 **🎵 My Playlist:** [Spotify Rock/Metal Mix](https://open.spotify.com/playlist/7zuFASksP0jVdjxNtKngg0?si=ab923ae73acc4050)
-
-## 📍 Connect with me
-- **Discord:** killuwap
-- **Email:** coby.2339@gmail.com
-- **Instagram:** @cobymarzo
-- **Facebook:** llcoby
-- **Spotify Playlist:** Rock/Metal Mix
