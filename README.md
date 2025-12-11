@@ -32,4 +32,3 @@ Blending technical skills with creative passions. Currently learning new technol
 ---
 
 **Musical taste:** Alternative Rock • Metal • Nu Metal • and beyond  
-**🎵 My Playlist:** [Spotify Rock/Metal Mix](https://open.spotify.com/playlist/7zuFASksP0jVdjxNtKngg0?si=ab923ae73acc4050)
