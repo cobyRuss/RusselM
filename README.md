@@ -60,5 +60,3 @@ Let's be real—I'm still working on my coding skills. Some days it clicks, some
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45" />
 </p>
-
-media3.giphy.com
