@@ -1,6 +1,6 @@
 #  Hello World! 👾
 
-![image]([https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzkwY25kaTMzMDR5dWI0Znc0d3hhNm9kdDY4dnBkMjZjYzNsZnJzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o8doZFy4iPd8VBL8I/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXp6Mjk1ZjNseXZqcTZjeTVpeXdpNGZsMmh2NmRocWhjeGozZDN3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O4ek62kVMV9nO/giphy.gif))
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzkwY25kaTMzMDR5dWI0Znc0d3hhNm9kdDY4dnBkMjZjYzNsZnJzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o8doZFy4iPd8VBL8I/giphy.gif
 # 🎸 Code, Chords & Learning Curves
 
 **IT Student | Bassist | Gamer | Philippines**
