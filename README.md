@@ -8,23 +8,23 @@
 Blending technical skills with creative passions. Currently learning new technologies while keeping my basslines heavy and my gameplay sharp. Always exploring where code, music, and gaming intersect.
 
 <p align="left">
-  <a href="https://www.facebook.com/llcoby" target="_blank">
+  <a href="https://www.facebook.com/llcoby" target="_blank" rel="noopener noreferrer">
     <img height="40" src="https://img.icons8.com/color/96/000000/facebook-new.png" alt="Facebook" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/cobymarzo/" target="_blank">
+  <a href="https://www.instagram.com/cobymarzo/" target="_blank" rel="noopener noreferrer">
     <img height="40" src="https://img.icons8.com/color/96/000000/instagram-new--v1.png" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.com/users/killuwap" target="_blank">
+  <a href="https://discord.com/users/killuwap" target="_blank" rel="noopener noreferrer">
     <img height="40" src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="Discord" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:coby.2339@gmail.com" target="_blank">
+  <a href="mailto:coby.2339@gmail.com" target="_blank" rel="noopener noreferrer">
     <img height="40" src="https://img.icons8.com/color/96/000000/gmail-new.png" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://open.spotify.com/playlist/7zuFASksP0jVdjxNtKngg0?si=ab923ae73acc4050" target="_blank">
+  <a href="https://open.spotify.com/playlist/7zuFASksP0jVdjxNtKngg0?si=ab923ae73acc4050" target="_blank" rel="noopener noreferrer">
     <img height="40" src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="Spotify" />
   </a>
 </p>
@@ -32,3 +32,11 @@ Blending technical skills with creative passions. Currently learning new technol
 ---
 
 **Musical taste:** Alternative Rock • Metal • Nu Metal • and beyond  
+**🎵 My Playlist:** [Spotify Rock/Metal Mix](https://open.spotify.com/playlist/7zuFASksP0jVdjxNtKngg0?si=ab923ae73acc4050){:target="_blank" rel="noopener noreferrer"}
+
+## 📍 Connect with me
+- **Discord:** killuwap
+- **Email:** [coby.2339@gmail.com](mailto:coby.2339@gmail.com){:target="_blank" rel="noopener noreferrer"}
+- **Instagram:** [@cobymarzo](https://www.instagram.com/cobymarzo/){:target="_blank" rel="noopener noreferrer"}
+- **Facebook:** [llcoby](https://www.facebook.com/llcoby){:target="_blank" rel="noopener noreferrer"}
+- **Spotify Playlist:** [Rock/Metal Mix](https://open.spotify.com/playlist/7zuFASksP0jVdjxNtKngg0?si=ab923ae73acc4050){:target="_blank" rel="noopener noreferrer"}
