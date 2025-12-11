@@ -23,14 +23,20 @@ Blending technical skills with creative passions. Currently learning new technol
   <a href="mailto:coby.2339@gmail.com" target="_blank">
     <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Gmail" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://open.spotify.com/playlist/7zuFASksP0jVdjxNtKngg0?si=ab923ae73acc4050" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/spotify.svg" alt="Spotify Playlist" />
+  </a>
 </p>
 
 ---
 
-**Musical taste:** Alternative Rock • Metal • Nu Metal • and beyond
+**Musical taste:** Alternative Rock • Metal • Nu Metal • and beyond  
+**🎵 My Playlist:** [Spotify Rock/Metal Mix](https://open.spotify.com/playlist/7zuFASksP0jVdjxNtKngg0?si=ab923ae73acc4050)
 
 ## 📍 Connect with me
 - **Discord:** killuwap
 - **Email:** coby.2339@gmail.com
 - **Instagram:** @cobymarzo
 - **Facebook:** llcoby
+- **Spotify Playlist:** Rock/Metal Mix
