@@ -1,7 +1,7 @@
 #  Hello World! 👾
 
 # 🎸 Code, Chords & Learning Curves
-![image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzkwY25kaTMzMDR5dWI0Znc0d3hhNm9kdDY4dnBkMjZjYzNsZnJzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o8doZFy4iPd8VBL8I/giphy.gif)
+![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJncXljOHBsdGc1b3phcW93YTNweDNtNmFvZndoN3g3cHk2MnNjOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O4ek62kVMV9nO/giphy.gif)
 
 
 **IT Student | Bassist | Gamer | Philippines**
